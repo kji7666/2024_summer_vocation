@@ -1,0 +1,63 @@
+      <div align="center"><img src="/2_products/2_9_menu/2-9-image/MH-101-9-A12-b.jpg" width="263" height="450" alt=""/><br>
+      <span class="text"><img src="/2_products/2_9_menu/2-9-image/line-01.jpg" width="347" height="2"></span></div>
+    <!-- InstanceEndEditable --></td>
+    <td width="180" height="412" align="left"  valign="bottom"><div align="left"><!-- InstanceBeginEditable name="table" -->
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td nowrap="nowrap"><span class="menu-link"><span >品名:</span>MH-102-5-A12-<strong>活頁裝</strong></span></td>
+        </tr>
+        <TR>
+          <TD bgColor=#336699><TABLE cellSpacing=1 cellPadding=0 width="100%" border=0>
+            <TBODY>
+              <TR class=4 bgColor=#ffffff>
+                <TD class=table-left bgColor=#cddddf><DIV class=table align=center>款式</DIV></TD>
+                <TD valign="middle" bgColor=#ffffff class=table-middle><DIV align=center><strong>活頁裝</strong><BR>
+                </DIV></TD>
+              </TR>
+            </TBODY>
+          </TABLE></TD>
+        </TR>
+        <tr>
+          <td><span >規格</span></td>
+        </tr>
+        <TR>
+          <TD bgColor=#336699><table width="100%" border="0" cellspacing="1" cellpadding="1">
+            <tr>
+              <td align="center" bgcolor="#cddddf"><span class="text"><strong>封面</strong></span></td>
+              <td nowrap bgcolor="#FFFFFF" class="text">1.帆布包灰紙板</td>
+            </tr>
+            <tr>
+              <td rowspan="4" align="center" bgcolor="#cddddf"><span class="text"><strong>內頁</strong></span></td>
+              <td bgcolor="#FFFFFF"><span class="text">1.印刷用紙250磅銅西卡紙</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF"><span class="text">2.印刷:數位彩色雙面印刷</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF"><span class="text">3.上光:上亮P或霧P</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF" class="text">4.內袋4張(A4袋、A12袋)</td>
+            </tr>
+            <tr>
+              <td rowspan="3" align="center" bgcolor="#cddddf"><span class="text">廣告</span></td>
+              <td bgcolor="#FFFFFF"><span class="text">1.燙金</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF"><span class="text">2.加購:銘牌</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF"><span class="text">3.網版印刷</span></td>
+            </tr>
+          </table></TD>
+        </TR>
+        <tr>
+          <td><img src="Inner page/menu-01.jpg" width="175" height="63"  alt=""/></td>
+        </tr>
+        <tr>
+          <td class="menu-link">&nbsp;</td>
+        </tr>
+        <tr>
+          <td valign="bottom">&nbsp;</td>
+        </tr>
+      </table>

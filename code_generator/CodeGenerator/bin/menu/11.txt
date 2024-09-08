@@ -1,0 +1,154 @@
+
+
+                              <td valign="bottom"><table width="160" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td valign="bottom"><a href="javascript:;" onMouseDown="MM_openBrWindow('/2_products/2_9_menu/2-9-MJ-208.html','工商日誌','width=630,height=900')"><img src="2-9-image/MJ-208-A4-s.jpg" width="195" height="199" border="0"></a></td>
+                                </tr>
+                                <tr>
+                                  <td><strong>繩裝-鬆緊帶</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="style91">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td bgcolor="#336699"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">型　　號</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">MJ-208-G6K</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面材質</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">封面紙/<span class="text-red">T</span></span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面規格</span>：</td>
+                                      <td nowrap bgcolor="#FFFFFF" class="text">A12、A12袋<br>
+                                        A4、A4袋<br>
+                                        G6、G12</td>
+                                    </tr>
+                                    <tr>
+                                      <td nowrap bgcolor="#cddddf"><span class="text">庫存規格</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">無</span></td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td><span class="text">詳細規格請點選</span></td>
+                                </tr>
+                              </table></td>
+                              <td><table width="160" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td><a href="javascript:;" onMouseDown="MM_openBrWindow('/2_products/2_9_menu/2-9-MJ-301.html','工商日誌','width=630,height=900')"><img src="2-9-image/MJ-402-G12-s.jpg" width="231" height="240" border="0"></a></td>
+                                </tr>
+                                <tr>
+                                  <td><strong>繩裝-鬆緊帶</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="style91">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td bgcolor="#336699"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                                    <tr>
+                                      <td width="64" bgcolor="#cddddf"><span class="text">型　　號</span>：</td>
+                                      <td width="102" bgcolor="#FFFFFF"><span class="text">MJ-301-G12</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面材質</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">封面紙/<span class="text-red">T</span></span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面規格</span>：</td>
+                                      <td nowrap bgcolor="#FFFFFF" class="text">G12、A12、A12袋<br>
+                                        A4、A4袋<br></td>
+                                    </tr>
+                                    <tr>
+                                      <td nowrap bgcolor="#cddddf"><span class="text">庫存規格</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">無</span></td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td><span class="text">詳細規格請點選</span></td>
+                                </tr>
+                              </table></td>
+                            </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td><table width="160" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td><a href="javascript:;" onMouseDown="MM_openBrWindow('/2_products/2_9_menu/2-9-MJ-401.html','工商日誌','width=630,height=900')"><img src="2-9-image/MJ-207-A4-s.jpg" width="195" height="240" border="0"></a></td>
+                                </tr>
+                                <tr>
+                                  <td><strong>繩裝-鬆緊帶</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="style91">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td bgcolor="#336699"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">型　　號</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">MJ-401-A4</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面材質</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">麂皮布/<span class="text-red">T</span></span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面規格</span>：</td>
+                                      <td nowrap bgcolor="#FFFFFF" class="text">G12、A12、A4</td>
+                                    </tr>
+                                    <tr>
+                                      <td nowrap bgcolor="#cddddf"><span class="text">庫存規格</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">無</span></td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td><span class="text">詳細規格請點選</span></td>
+                                </tr>
+                              </table></td>
+                              <td><table width="160" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td><a href="javascript:;" onMouseDown="MM_openBrWindow('/2_products/2_9_menu/2-9-MJ-402.html','工商日誌','width=630,height=900')"><img src="2-9-image/MJ-403-s.jpg" width="192" height="240" border="0"></a></td>
+                                </tr>
+                                <tr>
+                                  <td><strong>繩裝-鬆緊帶</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="style91">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td bgcolor="#336699"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">型　　號</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">MJ-402-A4</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面材質</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">上光牛皮紙/<span class="text-red">T</span></span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面規格</span>：</td>
+                                      <td nowrap bgcolor="#FFFFFF" class="text">G12、A12、A4<br>
+                                        G6</td>
+                                    </tr>
+                                    <tr>
+                                      <td nowrap bgcolor="#cddddf"><span class="text">庫存規格</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">無</span></td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td><span class="text">詳細規格請點選</span></td>
+                                </tr>
+                              </table></td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            

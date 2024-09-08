@@ -1,0 +1,16 @@
+[0]{src/image/street.png}
+[1]{src/image/dot-removebg-preview.png}
+[2]{???}{嘿嘿, 抓到你搂}
+[3]{甚麼東西}
+[1]{src/image/cat.png}
+[2]{???}{猜猜我是誰}
+[3]{美樂蒂}{Hello World}{Meow}
+[1]{src/image/people-removebg-preview.png}
+[2]{昊庭}{It's me! pekora!}
+[3]{你怎麼會在這裡}
+[1]{src/image/BIG_people-removebg-preview.png}
+[2]{昊庭}{聞香而來}
+[3]{好..好噁心}{好..好男人}
+[2]{昊庭}{束手就擒吧}
+[1]{src/image/people-removebg-preview.png}
+[2]{昊庭}{哈哈哈哈哈}

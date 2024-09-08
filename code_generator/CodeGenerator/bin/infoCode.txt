@@ -1,0 +1,51 @@
+<img src="[bigImg]" width="402" height="539">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td nowrap="nowrap"><h5>品名:[name]<br>
+<strong>[type]</strong></h5></td>
+    </tr>
+    <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody>
+            <tr>
+            <td><table width="100%" border="1" cellspacing="0" cellpadding="0">
+                <tbody>
+                <tr>
+                    <td nowrap="nowrap"><strong>封面</strong></td>
+                    <td><span class="text">[cover]</span></td>
+                    </tr>
+                <tr>
+                    <td rowspan="4" nowrap="nowrap">內頁</td>
+                    <td nowrap="nowrap"><span class="text">[insidePage]</span></td>
+                    </tr>
+                <tr>
+                    <td><span class="text">[insidePage]</span></td>
+                    </tr>
+                <tr>
+                    <td><span class="text">[insidePage]</span></td>
+                    </tr>
+                <tr>
+                    <td><span class="text">[insidePage]</span></td>
+                    </tr>
+                <tr>
+                    <td rowspan="3" nowrap="nowrap">廣告</td>
+                    <td><span class="text">[advertise]</span></td>
+                    </tr>
+                <tr>
+                    <td><span class="text">[advertise]</span></td>
+                    </tr>
+                <tr>
+                    <td><span class="text">[advertise]</span></td>
+                    </tr>
+                </tbody>
+                </table></td>
+            </tr>
+            <tr>
+            <td><img src="[smlImg]" width="350" height="172"  alt=""/></td>
+            </tr>
+        </tbody>
+        </table></td>
+    </tr>
+    </tbody>
+</table>

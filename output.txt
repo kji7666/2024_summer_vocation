@@ -1,0 +1,16 @@
+列出磁碟區 Data 的資料夾 PATH
+磁碟區序號為 EAC0-AAFC
+D:\2024 SUMMER VOCATION\BIRDGAME
+├─resources
+│  ├─img
+│  ├─readme_img
+│  └─wav
+└─src
+    └─main
+        └─java
+            └─com
+                └─kingyu
+                    └─flappybird
+                        ├─app
+                        ├─component
+                        └─util

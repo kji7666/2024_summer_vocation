@@ -1,0 +1,70 @@
+                              <td><table width="160" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td><a href="javascript:;" onMouseDown="MM_openBrWindow('/2_products/2_9_menu/2-9-MC-601-1.html','????鈭?','width=630,height=900')"><img src="2-9-image/MC-A4-601-1-s.jpg" width="195" height="240" border="0"></a><a href="javascript:;" onMouseDown="MM_openBrWindow('/2_products/2_9_menu/2-9-MC-601-1.html','工商日誌','width=630,height=900')"></a></td>
+                                </tr>
+                                <tr>
+                                  <td><strong>卡釦裝</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="style91">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td bgcolor="#336699"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">型　　號</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">MC-601-1-A4</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面材質</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">裱木皮/<span class="text-red">T</span></span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面規格</span>：</td>
+                                      <td nowrap bgcolor="#FFFFFF" class="text">A4、A12</td>
+                                    </tr>
+                                    <tr>
+                                      <td nowrap bgcolor="#cddddf"><span class="text">庫存規格</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">無</span></td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td><span class="text">詳細規格請點選</span></td>
+                                </tr>
+                              </table></td>
+                              <td><table width="160" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td><a href="javascript:;" onMouseDown="MM_openBrWindow('/2_products/2_9_menu/2-9-MC-601-2.html','????鈭?','width=630,height=900')"><img src="2-9-image/MC-A4-601-2-s.jpg" width="195" height="240" border="0"></a><a href="javascript:;" onMouseDown="MM_openBrWindow('/2_products/2_9_menu/2-9-MC-601-2.html','工商日誌','width=630,height=900')"></a></td>
+                                </tr>
+                                <tr>
+                                  <td><strong>卡釦裝</strong></td>
+                                </tr>
+                                <tr>
+                                  <td class="style91">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td bgcolor="#336699"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">型　　號</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">MC-601-2-A4</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面材質</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">裱木皮/<span class="text-red">T</span></span></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#cddddf"><span class="text">封面規格</span>：</td>
+                                      <td nowrap bgcolor="#FFFFFF" class="text">A4、A12</td>
+                                    </tr>
+                                    <tr>
+                                      <td nowrap bgcolor="#cddddf"><span class="text">庫存規格</span>：</td>
+                                      <td bgcolor="#FFFFFF"><span class="text">無</span></td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td><span class="text">詳細規格請點選</span></td>
+                                </tr>
+                              </table></td>
+                            </tr>
+                            

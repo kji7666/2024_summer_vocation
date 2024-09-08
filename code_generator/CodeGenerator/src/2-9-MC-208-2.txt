@@ -1,0 +1,63 @@
+      <div align="center"><img src="/2_products/2_9_menu/2-9-image/MC-A4-208-2-b.jpg" width="325" height="400"><br>
+        <span class="text"><img src="/2_products/2_9_menu/2-9-image/line-01.jpg" width="347" height="2"></span></div>
+    <!-- InstanceEndEditable --></td>
+    <td width="180" height="412" align="left"  valign="bottom"><div align="left"><!-- InstanceBeginEditable name="table" -->
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><span class="menu-link"><span >�~�W:</span>MC-208-2-A4-<strong>���d��-2����</strong></span></td>
+        </tr>
+        <TR>
+          <TD bgColor=#336699><TABLE cellSpacing=1 cellPadding=0 width="100%" border=0>
+            <TBODY>
+              <TR class=4 bgColor=#ffffff>
+                <TD class=table-left bgColor=#cddddf><DIV class=table align=center>�ڦ�</DIV></TD>
+                <TD valign="middle" bgColor=#ffffff class=table-middle><DIV align=center><strong>���d��</strong><BR>
+                </DIV></TD>
+              </TR>
+            </TBODY>
+          </TABLE></TD>
+        </TR>
+        <tr>
+          <td><span >�W��</span></td>
+        </tr>
+        <TR>
+          <TD bgColor=#336699><table width="100%" border="0" cellspacing="1" cellpadding="1">
+            <tr>
+              <td align="center" bgcolor="#cddddf"><span class="text"><strong>�ʭ�</strong></span></td>
+              <td nowrap bgcolor="#FFFFFF" class="text">1.�ʭ��ȥ]�ǯȪO</td>
+            </tr>
+            <tr>
+              <td rowspan="4" align="center" bgcolor="#cddddf"><span class="text"><strong>����</strong></span></td>
+              <td bgcolor="#FFFFFF"><span class="text">1.�L��ί�250�S�ɦ�d��</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF"><span class="text">2.�L��:�Ʀ�m�������L��</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF"><span class="text">3.�W��:�W�GP����P</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF" class="text">4.���U4�i(A4�U�BA12�U)</td>
+            </tr>
+            <tr>
+              <td rowspan="3" align="center" bgcolor="#cddddf"><span class="text">�s�i</span></td>
+              <td bgcolor="#FFFFFF"><span class="text">1.�S��</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF"><span class="text">2.�[��:�ʵP</span></td>
+            </tr>
+            <tr>
+              <td bgcolor="#FFFFFF"><span class="text">3.�����L��</span></td>
+            </tr>
+          </table></TD>
+        </TR>
+        <tr>
+          <td><img src="/2_products/2_9_menu/Inner page/d-ma-a4.jpg" width="195" height="95"  alt=""/></td>
+        </tr>
+        <tr>
+          <td class="menu-link">�ֽ��C��</td>
+        </tr>
+        <tr>
+          <td valign="bottom"><img src="2-9-image/Color Card/16-06-002-s.jpg" width="190" height="76"  alt=""/></td>
+        </tr>
+        </table>
